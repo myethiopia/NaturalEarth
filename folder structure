@@ -1,0 +1,54 @@
+continent
+  Africa
+  Antarctica
+  Asia
+  Europe
+  North America
+  Oceania
+  Seven seas (open ocean)
+  South America
+
+region_un
+  Africa
+  Americas
+  Antarctica
+  Asia
+  Europe
+  Oceania
+  Seven seas (open ocean)
+
+region_wb
+  Antarctica
+  East Asia and Pacific
+  Europe and Central Asia
+  Latin America and Caribbean
+  Middle East and North Africa
+  North America
+  South Asia
+  Sub-Saharan Africa
+
+subregion
+  Antarctica
+  Australia and New Zealand
+  Caribbean
+  Central America
+  Central Asia
+  Eastern Africa
+  Eastern Asia
+  Eastern Europe
+  Melanesia
+  Micronesia
+  Middle Africa
+  Northern Africa
+  Northern America
+  Northern Europe
+  Polynesia
+  Seven seas (open ocean)
+  South America
+  South-Eastern Asia
+  Southern Africa
+  Southern Asia
+  Southern Europe
+  Western Africa
+  Western Asia
+  Western Europe
